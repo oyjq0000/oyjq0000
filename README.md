@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Quan
 
-<!--
-**oyjq0000/oyjq0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent developer building practical web products, AI tools, automation systems, and content-driven websites.
 
-Here are some ideas to get you started:
+## Selected work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What it is |
+| --- | --- |
+| [Binary Code Translator](https://binary-code-translator.com/) | Binary, text, Base64, number-base, and encoding tools. |
+| [RunningBai](https://www.runningbai.cn/) | My technical blog about development, infrastructure, AI coding, and building products. |
+| [OpenClaw Nav](https://openclawnav.com/) | Guides, deployment references, comparisons, and resources around OpenClaw. |
+| [Warhounds](https://warhounds.org/) | A focused game guide and reference site. |
+| [Sandustry](https://sandustry.top/) | Guides, mechanics, and reference content for Sandustry. |
+
+## What I build
+
+- AI-assisted development and content workflows
+- Browser automation and local agent tooling
+- Data collection, monitoring, and research pipelines
+- SEO, localization, and content-quality automation
+- Static-first websites and developer tools
+
+## Open source
+
+- [BinaryCodeTranslator](https://github.com/oyjq0000/BinaryCodeTranslator) — converter tools powering binary-code-translator.com
+- [TimeQuad](https://github.com/oyjq0000/TimeQuad) — quadrant-based task management with Pomodoro focus sessions
+
+Some production repositories are private while the products themselves are public.
+
+## Stack
+
+Python · TypeScript · Astro · Next.js · FastAPI · Cloudflare · Docker · GitHub Actions
