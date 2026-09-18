@@ -7,6 +7,7 @@ Independent developer building practical web products, AI tools, automation syst
 | Project | What it is |
 | --- | --- |
 | [Binary Code Translator](https://binary-code-translator.com/) | Binary, text, Base64, number-base, and encoding tools. |
+| [QuestHub](https://questhub.uk/) | Hand-picked browser games you can play instantly, with source and license transparency. |
 | [RunningBai](https://www.runningbai.cn/) | My technical blog about development, infrastructure, AI coding, and building products. |
 | [OpenClaw Nav](https://openclawnav.com/) | Guides, deployment references, comparisons, and resources around OpenClaw. |
 | [Warhounds](https://warhounds.org/) | A focused game guide and reference site. |
