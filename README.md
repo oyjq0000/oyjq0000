@@ -12,6 +12,7 @@ Independent developer building practical web products, AI tools, automation syst
 | [OpenClaw Nav](https://openclawnav.com/) | Guides, deployment references, comparisons, and resources around OpenClaw. |
 | [Warhounds](https://warhounds.org/) | A focused game guide and reference site. |
 | [Sandustry](https://sandustry.top/) | Guides, mechanics, and reference content for Sandustry. |
+| [CutoutUp](https://cutoutup.com/) | AI video background removal — people cutouts with transparent WebM export, green screen, and GIF cutouts; processed locally in your browser. |
 
 ## Featured: ChinaTimeWidget
 
