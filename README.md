@@ -18,7 +18,10 @@ Independent developer building practical web products, AI tools, automation syst
 
 [ChinaTimeWidget](https://github.com/oyjq0000/ChinaTimeWidget) replaces the Windows taskbar clock with China Standard Time (UTC+8) and adds a Chinese lunar calendar flyout: lunar dates, solar terms, festivals, ganzhi, statutory holidays with auto-updated tiaoxiu (holiday-cn), agendas with reminders, a recent-agenda view, dark mode, accent colors, and a year/month picker — single-file C# WinForms, zero third-party dependencies (MIT).
 
-![ChinaTimeWidget calendar panel](https://raw.githubusercontent.com/oyjq0000/ChinaTimeWidget/main/docs/panel-light.png)
+| | | | |
+| :---: | :---: | :---: | :---: |
+| <img src="assets/clock.png" width="150" alt="taskbar clock"> | <img src="assets/panel-light.png" width="250" alt="calendar panel"> | <img src="assets/picker.png" width="250" alt="year month picker"> | <img src="assets/agenda-editor.png" width="250" alt="agenda editor"> |
+| taskbar clock | calendar flyout | year/month picker | agenda editor |
 
 ## What I build
 
